@@ -1,0 +1,23 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+}
+#speed{       
+                text-shadow: 1px 2px red;
+                width: 80%;
+                display: inline-block;
+                outline: 0;
+                text-align: center;
+                cursor: pointer;
+                padding: 17px 30px;
+                border: 0;
+                color: white;
+                font-size: 17.5px;
+                border: 2px solid transparent;
+                border-color: cyan;
+                color: white;
+                background: #292C33;
+                font-weight: 800;
+                line-height: 30px;
+                transition: background,color .1s ease-in-out;
+}
